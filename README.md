@@ -3,7 +3,7 @@
 [中文说明](README.zh-CN.md) | English
 
 <p align="center">
-  <img src="docs/images/hidden-state-risk-probing-poster.png" alt="Hidden State Risk Probing project poster" width="100%">
+  <img src="docs/images/social-preview.jpg" alt="Hidden State Risk Probing social preview cover" width="100%">
 </p>
 
 Hidden State Risk Probing is a reproducible experiment repository for studying whether hidden states from instruction-tuned language models carry signals related to risk categories and downstream behavior.
